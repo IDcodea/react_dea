@@ -5,7 +5,7 @@ const Testing = () => {
   return (
     <React.Fragment>
       <h1>Testing</h1>
-      <p>Hello Testing</p>
+      <p>Hello Testing2</p>
     </React.Fragment>
   )
 }
